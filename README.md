@@ -1,6 +1,25 @@
 # DogFeeder
 Кормушка для собак средних и крупных пород с управлением через интернет.
 
+### Задачи ([issues](https://github.com/MaxMukovin/DogFeeder/issues))
+**Doing**
+
+...
+
+**ToDo**
+
+- [Тестирование Прототипа](https://github.com/MaxMukovin/DogFeeder/issues/1)
+- [Создание мокапа для Landing Page](https://github.com/MaxMukovin/DogFeeder/issues/2)
+
+**Future**
+
+- [Вёрстка и деплой Landing Page](https://github.com/MaxMukovin/DogFeeder/issues/3)
+- [Продвижение (SMM) DogFeeder](https://github.com/MaxMukovin/DogFeeder/issues/4)
+
+**Done**
+
+- Разработка и реализация прототипа.
+
 ### Особенности
 
 - Работает по сети интернет через приложение Blynk;
@@ -11,7 +30,7 @@
 - 8 зарядов (в текущей версии). Можно использовать любое количество 1-8-и;
 - Модуль управления может быть применён для активации ручного кормления на готовых кормушках.
 
-### Материалы
+### Материалы для изготовления
 
 **Корпус/механизм кормления**
 
