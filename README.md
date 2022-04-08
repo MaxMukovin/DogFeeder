@@ -4,12 +4,12 @@
 ### Задачи ([issues](https://github.com/MaxMukovin/DogFeeder/issues))
 **Doing**
 
-...
+- [Тестирование Прототипа](https://github.com/MaxMukovin/DogFeeder/issues/1)
+- [Создание мокапа для Landing Page](https://github.com/MaxMukovin/DogFeeder/issues/2)
 
 **ToDo**
 
-- [Тестирование Прототипа](https://github.com/MaxMukovin/DogFeeder/issues/1)
-- [Создание мокапа для Landing Page](https://github.com/MaxMukovin/DogFeeder/issues/2)
+---
 
 **Future**
 
